@@ -1,0 +1,17 @@
+* ADIC Tape library
+
+English version below →
+
+** Wersja polska
+
+Zewstaw dokumentacji płytek oraz schematów użytych 
+do uruchomienia oraz postawienia wstan gotowośći
+biblioteki taśmowej Hackerspace Kraków.
+
+
+---
+
+** English version
+
+A set of documentation, circuits and schematics used to
+make  hackerspaces tape library running.
