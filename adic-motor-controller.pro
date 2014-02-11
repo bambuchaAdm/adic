@@ -1,4 +1,4 @@
-update=pon, 18 lis 2013, 21:27:57
+update=wto, 26 lis 2013, 16:33:28
 version=1
 last_client=eeschema
 [cvpcb]
